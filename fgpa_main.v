@@ -1,6 +1,7 @@
 `timescale 1ns / 1ps
 //Verilog HDL for "ISFET", "fpga_compen" "functional"
 
+// hahahahhh liangjing a a ahahh ni zhenkeai a 
 
 module fpga_main #(
       parameter PIXEL_NUM  = 16,
